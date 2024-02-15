@@ -1,4 +1,4 @@
-# Spotify Songs Analysis 🎵📊
+# Spotify Trends Analyser using Pandas 🎵📊
 
 An exploration and analysis of Spotify songs dataset using Jupyter Notebook.
 
